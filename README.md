@@ -3,7 +3,7 @@
 Before use, run "npm i" to install dependencies.\
 Then, run "npm run dev" to start the dev server.\
 Navigate to the URLs described below to access the endpoints.\
-Tests can be run using "npm run test". The test suites are written using Jest, and all tests can be found in the tests folder.\
+Tests can be run using "npm run test". The test suites are written using Jest, and all tests can be found in the tests folder.
 
 ### Tasks
 - Add the remaining fields to the vehicle model - Done
