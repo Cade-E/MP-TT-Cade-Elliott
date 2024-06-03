@@ -1,10 +1,11 @@
-Solution Guide:
+## Solution Guide:
 
-Before use, run "npm i" to install dependencies.
-Then, run "npm run dev" to start the dev server.
-Navigate to the URLs described below to access the endpoints
-Tests can be run using "npm run test". The test suites are written using Jest, and all tests can be found in the tests folder.
+Before use, run "npm i" to install dependencies.\
+Then, run "npm run dev" to start the dev server.\
+Navigate to the URLs described below to access the endpoints.\
+Tests can be run using "npm run test". The test suites are written using Jest, and all tests can be found in the tests folder.\
 
+### Tasks
 - Add the remaining fields to the vehicle model - Done
 - Implement an endpoint for listing all cars - localhost:3000/vehicles/all
 - Implement an endpoint for listing cars by make - localhost:3000/vehicles/make/:make - where :make is the make of the car you wish to list
